@@ -7,11 +7,17 @@ class HomeScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text(
-          'Task',
-          style: TextStyle(
-            fontWeight: FontWeight.w500,
-            fontSize: 24.0,
+        title: Padding(
+          padding: const EdgeInsets.symmetric(
+            vertical: 10.0,
+            horizontal: 0,
+          ),
+          child: Text(
+            'Task',
+            style: TextStyle(
+              fontWeight: FontWeight.w500,
+              fontSize: 24.0,
+            ),
           ),
         ),
         elevation: 0,

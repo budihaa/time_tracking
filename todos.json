@@ -1,0 +1,96 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "UI Design",
+      "timer": "00:42:21",
+      "icon": "",
+      "is_running": false,
+      "completed": false,
+      "categories": [
+        {
+          "id": 1,
+          "title": "Work",
+          "bg_color": "#FFEFF1",
+          "text_color": "#FD5B71"
+        },
+        {
+          "id": 2,
+          "title": "Rasion Project",
+          "bg_color": "#F5EEFC",
+          "text_color": "#9B51E0"
+        }
+      ],
+      "created_at": "2021-01-24T05:44:17.282977+00:00"
+    },
+    {
+      "id": 2,
+      "title": "100x Sit-Up",
+      "timer": "00:14:06",
+      "icon": "",
+      "is_running": false,
+      "completed": false,
+      "categories": [
+        {
+          "id": 3,
+          "title": "Personal",
+          "bg_color": "#F2F2F2",
+          "text_color": "#828282"
+        },
+        {
+          "id": 4,
+          "title": "Workout",
+          "bg_color": "#FEF5ED",
+          "text_color": "#FFA656"
+        }
+      ],
+      "created_at": "2021-01-24T05:44:17.282977+00:00"
+    },
+    {
+      "id": 3,
+      "title": "Learn Html & CSS",
+      "timer": "00:24:52",
+      "icon": "",
+      "is_running": false,
+      "completed": false,
+      "categories": [
+        {
+          "id": 3,
+          "title": "Personal",
+          "bg_color": "#F2F2F2",
+          "text_color": "#828282"
+        },
+        {
+          "id": 5,
+          "title": "Coding",
+          "bg_color": "#FFEFF1",
+          "text_color": "#FD5B71"
+        }
+      ],
+      "created_at": "2021-01-24T05:44:17.282977+00:00"
+    },
+    {
+      "id": 4,
+      "title": "Read 10 pages of book",
+      "timer": "00:21:09",
+      "icon": "",
+      "is_running": false,
+      "completed": false,
+      "categories": [
+        {
+          "id": 3,
+          "title": "Personal",
+          "bg_color": "#F2F2F2",
+          "text_color": "#828282"
+        },
+        {
+          "id": 6,
+          "title": "Coding",
+          "bg_color": "#E6FCF4",
+          "text_color": "#07E092"
+        }
+      ],
+      "created_at": "2021-01-24T05:44:17.282977+00:00"
+    }
+  ]
+}
